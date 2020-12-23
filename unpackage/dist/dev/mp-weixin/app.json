@@ -1,0 +1,60 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/addressBook/addressBook",
+    "pages/find/find",
+    "pages/my/my",
+    "pages/search/search",
+    "pages/chat/chat",
+    "pages/firendCircle/firendCircle",
+    "pages/businessCard/businessCard",
+    "pages/releaseFirendCircle/releaseFirendCircle",
+    "pages/chooseBgImg/chooseBgImg",
+    "components/u-avatar-cropper/u-avatar-cropper",
+    "pages/builtinBgImg/builtinBgImg",
+    "pages/moreInforMation/moreInforMation"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "wechat",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "backgroundTextStyle": "light",
+    "pageOrientation": "portrait"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/image/wechat.png",
+        "selectedIconPath": "static/image/wechat_hl.png",
+        "text": "微信"
+      },
+      {
+        "pagePath": "pages/addressBook/addressBook",
+        "iconPath": "static/image/address.png",
+        "selectedIconPath": "static/image/address_hl.png",
+        "text": "通讯录"
+      },
+      {
+        "pagePath": "pages/find/find",
+        "iconPath": "static/image/find.png",
+        "selectedIconPath": "static/image/find_hl.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/image/my.png",
+        "selectedIconPath": "static/image/my_hl.png",
+        "text": "我"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,40 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "useMultiFrameRuntime": true,
+    "bundle": false,
+    "useApiHook": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.9.2",
+  "appid": "touristappid",
+  "projectname": "wechat",
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "",
+          "path": "",
+          "query": "",
+          "id": 0
+        }
+      ]
+    }
+  }
+}

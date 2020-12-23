@@ -1,0 +1,68 @@
+
+.content.data-v-19a79e36 {
+	background: rgba(255, 255, 255, 1);
+}
+.cropper.data-v-19a79e36 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 99999999999999;
+}
+.cropper-buttons.data-v-19a79e36 {
+	background-color: #000000;
+	color: #eee;
+}
+.cropper-wrapper.data-v-19a79e36 {
+	position: relative;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	width: 100%;
+	background-color: #000;
+}
+.cropper-buttons.data-v-19a79e36 {
+	width: 100vw;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	font-size: 28rpx;
+}
+.cropper-buttons .upload.data-v-19a79e36,
+.cropper-buttons .getCropperImage.data-v-19a79e36 {
+	width: 50%;
+	text-align: center;
+}
+.cropper-buttons .upload.data-v-19a79e36 {
+	text-align: left;
+	padding-left: 50rpx;
+}
+.cropper-buttons .getCropperImage.data-v-19a79e36 {
+	text-align: right;
+	padding-right: 50rpx;
+}
+

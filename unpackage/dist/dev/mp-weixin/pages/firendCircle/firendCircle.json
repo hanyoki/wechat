@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": " ",
+  "navigationStyle": "custom",
+  "transparentTitle": "auto",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

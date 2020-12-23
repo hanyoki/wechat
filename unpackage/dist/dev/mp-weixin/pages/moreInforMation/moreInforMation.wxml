@@ -1,0 +1,1 @@
+<view><u-cell-group vue-id="1" bind:__l="__l" vue-slots="{{['default']}}"><u-cell-item vue-id="{{('2')+','+('1')}}" title="个性签名" arrow="{{false}}" center="{{true}}" hover-class="none" value="{{signature}}" bind:__l="__l"></u-cell-item></u-cell-group></view>

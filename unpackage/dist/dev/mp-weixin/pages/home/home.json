@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "微信",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "search-input": "/components/searchInput/index",
+    "select-input": "/components/selectInput/selectInput"
+  }
+}

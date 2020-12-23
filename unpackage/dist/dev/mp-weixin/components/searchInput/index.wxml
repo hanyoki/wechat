@@ -1,0 +1,1 @@
+<view class="content_search  u-border-bottom data-v-457fbf1b"><view data-event-opts="{{[['tap',[['clickInput',['$event']]]]]}}" bindtap="__e" class="data-v-457fbf1b"><u-search vue-id="1" placeholder="搜索" shape="square" show-action="{{false}}" bg-color="#ffffff" disabled="{{true}}" class="data-v-457fbf1b" bind:__l="__l"></u-search></view></view>
